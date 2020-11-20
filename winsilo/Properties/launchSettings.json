@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "winsilo": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
